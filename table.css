@@ -1,0 +1,13 @@
+
+#Feriado{
+    color:red;
+}
+table, th, td, tr{
+    border:1px solid black;
+    border-collapse: collapse;
+    text-align:center
+}
+td{
+    width:50px;
+    height:30px;
+}
