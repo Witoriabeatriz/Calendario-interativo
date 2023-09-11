@@ -12,14 +12,14 @@ Este é um simples projeto de calendário web que permite ao usuário escolher u
 
 Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado em 2023 nas aulas de PROGRAMAÇÃO WEB I ministradas pelo professor Leonardo Rocha Na instituição Marista Escola Social Irmão Acácio.
 
-##  Recursos
+## 📎 Recursos
 
 - Visualização de um calendário com os dias do mês.
 - Opção de escolher uma cor para destacar um dia no calendário.
 - Entrada para selecionar o dia do mês.
 - Botão para aplicar a cor selecionada ao dia escolhido.
 
-## Instruções de Uso
+## 🤖✔ Instruções de Uso
 
 1. Abra o arquivo `index.html` em seu navegador.
 2. Escolha uma cor na lista suspensa "Escolha uma cor".
