@@ -19,16 +19,16 @@ Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado
 - Entrada para selecionar o dia do mês.
 - Botão para aplicar a cor selecionada ao dia escolhido.
 
-## 🤖✔ Instruções de Uso
+## ✔ Instruções de Uso
 
 1. Abra o arquivo `index.html` em seu navegador.
 2. Escolha uma cor na lista suspensa "Escolha uma cor".
 3. Digite o número do dia que você deseja destacar no campo "Escolha o dia".
 4. Clique no botão "Aplicar" para colorir o dia selecionado no calendário.
 
-## Personalização
+## 🖌 Personalização
 
 Você pode personalizar o calendário ajustando o arquivo `table.css` para alterar o estilo visual e o arquivo `table.js` para modificar o comportamento e a lógica do calendário.
 
-## Autor
+## ✒ Autor
 Este projeto foi criado por Witória Beatriz Dos Santos
