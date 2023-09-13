@@ -9,7 +9,7 @@ Este é um simples projeto de calendário web que permite ao usuário escolher u
 Este é um simples projeto de calendário web que permite ao usuário escolher uma cor e um dia do mês para destacar no calendário;
 Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado em 2023 nas aulas de PROGRAMAÇÃO WEB I ministradas pelo professor Leonardo Rocha Na instituição Marista Escola Social Irmão Acácio.
 
-## 📎 Recursos
+## 📝 Recursos
 - Visualização de um calendário com os dias do mês;
 - Opção de escolher uma cor para destacar um dia no calendário;
 - Entrada para selecionar o dia do mês;
