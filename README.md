@@ -20,10 +20,10 @@ Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado
 Adicionar cor a dias no calendario;
 
 Tabela de cores
-💙Azul
-💚Verde
-💗Rosa
-💜Roxo
+*💙Azul
+*💚Verde
+*💗Rosa
+*💜Roxo
 
 ## ✔ Instruções de Uso
 1. Abra o arquivo `index.html` em seu navegador.
