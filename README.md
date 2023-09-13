@@ -43,6 +43,9 @@ Você pode personalizar o calendário ajustando o arquivo `table.css` para alter
 
 ## 🔗 Fontes consultadas
 * Chat gpt
+* Google
+* Professor
+* Amigos/colegas
 
 ## ✒ Autor
 Este projeto foi criado por Witória Beatriz Dos Santos
