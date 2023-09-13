@@ -16,20 +16,19 @@ Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado
 - Botão para aplicar a cor selecionada ao dia escolhido.
 
 ## 🤖Tecologias utilizadas
-1. **HTML5;**
-2. **CSS;**
-3. **JavaScript.** 
+- HTML5;
+- CSS;
+- JavaScript.
 
 ## ⌨ Ferramentas utilizadas
-1. **git;** 
-2. **git hub;**
-3. **visual Studio Code.**
+- git; 
+- git hub;
+- visual Studio Code.
  
 ## ✔ Instruções de Uso
-1. Abra o arquivo `index.html` em seu navegador;
-2. Escolha uma cor na lista suspensa "Escolha uma cor";
-3. Digite o número do dia que você deseja destacar no campo "Escolha o dia";
-4. Clique no botão "Aplicar" para colorir o dia selecionado no calendário.
+- Abra o arquivo `index.html` em seu navegador;
+- Escolha uma cor na lista suspensa "Escolha uma cor";
+- Digite o número do dia que você deseja destacar no campo "Escolha o dia";- Clique no botão "Aplicar" para colorir o dia selecionado no -calendário.
  
 6. ## 👾Funcionalidades
 Adicionar cor aos dias no calendario;
