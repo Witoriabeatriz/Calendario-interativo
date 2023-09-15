@@ -1,22 +1,26 @@
 📈 ÍNDICE
 
-* [Sobre o projeto]()  
+* [Calendário interativo](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#%EF%B8%8F-capa-do-projeto)
 
-* [Recursos]()
- 
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)  
-
-* [Ferramentas Utilizadas]()
-
- * [Instruções de uso]()
-
-* [Funcionalidades]()
+* [Capa do projeto](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#%EF%B8%8F-capa-do-projeto)
   
-* [Personalização]()
+* [Sobre o projeto](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-sobre-o-projeto)  
+
+* [Recursos](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-recursos)
  
-* [Fontes consultadas]()
+* [Tecnologias Utilizadas](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#tecologias-utilizadas)  
+
+* [Ferramentas Utilizadas](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-ferramentas-utilizadas)
+
+ * [Instruções de uso](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-instru%C3%A7%C3%B5es-de-uso)
+
+* [Funcionalidades](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#funcionalidades)
+  
+* [Personalização](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-personaliza%C3%A7%C3%A3o)
  
-* [Autores](#autores)  
+* [Fontes consultadas](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-fontes-consultadas)
+ 
+* [Autor](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-autor)  
 # 📆 Calendário Interativo 
 Este é um simples projeto de calendário web que permite ao usuário escolher uma cor e um dia do mês para destacar no calendário.
 
@@ -48,7 +52,7 @@ Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado
 - Escolha uma cor na lista suspensa "Escolha uma cor";
 - Digite o número do dia que você deseja destacar no campo "Escolha o dia";- Clique no botão "Aplicar" para colorir o dia selecionado no -calendário.
  
-6. ## 👾Funcionalidades
+## 👾Funcionalidades
 Adicionar cor aos dias no calendario;
 Tabela de cores:
 * 💙Azul
