@@ -81,4 +81,4 @@ Você pode personalizar o calendário ajustando o arquivo `table.css` para alter
 
 
 ## ✒ Autor
-Este projeto foi criado por Witória Beatriz Dos Santos
+Este projeto foi criado por [Witória Beatriz Dos Santos](https://github.com/Witoriabeatriz)
