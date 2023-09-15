@@ -64,10 +64,21 @@ Tabela de cores:
 Você pode personalizar o calendário ajustando o arquivo `table.css` para alterar o estilo visual e o arquivo `table.js` para modificar o comportamento e a lógica do calendário.
 
 ## 🔗 Fontes consultadas
-* Chat gpt
+* Chat gpt - Como fazer um bom README  
+  
+* Professor  
+1. [Leonardo](https://teams.microsoft.com/l/message/19:af11d21862c8409d8c9af35e424e6fd4@thread.v2/1694780061134?context=%7B%22contextType%22%3A%22chat%22%7D)
+2. [Leonardo.Rocha](https://teams.microsoft.com/l/message/19:af11d21862c8409d8c9af35e424e6fd4@thread.v2/1694780075872?context=%7B%22contextType%22%3A%22chat%22%7D)  
+
+* Amigos/colegas  
+1. [Juan](https://github.com/Juanbyluna)
+2. [jasminy](https://github.com/jamybr)
+  
 * Google
-* Professor
-* Amigos/colegas
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github  
+* [Dio.me](https://www.dio.me/articles/personalize-o-readme-no-github) - Como inserir imagem no README
+
+
 
 ## ✒ Autor
 Este projeto foi criado por Witória Beatriz Dos Santos
