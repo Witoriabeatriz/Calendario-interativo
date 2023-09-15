@@ -37,7 +37,7 @@ Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado
 - Entrada para selecionar o dia do mês;
 - Botão para aplicar a cor selecionada ao dia escolhido.
 
-## 🤖Tecologias utilizadas
+## 🤖 Tecologias utilizadas
 - HTML5;
 - CSS;
 - JavaScript.
@@ -52,7 +52,7 @@ Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado
 - Escolha uma cor na lista suspensa "Escolha uma cor";
 - Digite o número do dia que você deseja destacar no campo "Escolha o dia";- Clique no botão "Aplicar" para colorir o dia selecionado no -calendário.
  
-## 👾Funcionalidades
+## 👾 Funcionalidades
 Adicionar cor aos dias no calendario;
 Tabela de cores:
 * 💙Azul
