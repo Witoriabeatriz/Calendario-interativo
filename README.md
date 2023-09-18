@@ -67,8 +67,8 @@ Você pode personalizar o calendário ajustando o arquivo `table.css` para alter
 * Chat gpt - Como fazer um bom README  
   
 * Professor  
-1. [Leonardo](https://teams.microsoft.com/l/message/19:af11d21862c8409d8c9af35e424e6fd4@thread.v2/1694780061134?context=%7B%22contextType%22%3A%22chat%22%7D)
-2. [Leonardo.Rocha](https://teams.microsoft.com/l/message/19:af11d21862c8409d8c9af35e424e6fd4@thread.v2/1694780075872?context=%7B%22contextType%22%3A%22chat%22%7D)  
+1. [Leonardo](https://github.com/leonardossrocha)
+2. [Leonardo.Rocha](https://github.com/leonardoRochaMarista)  
 
 * Amigos/colegas  
 1. [Juan](https://github.com/Juanbyluna)
