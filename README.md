@@ -80,7 +80,7 @@ Você pode personalizar o calendário ajustando o arquivo `table.css` para alter
 3.[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github  
 4.[Dio.me](https://www.dio.me/articles/personalize-o-readme-no-github) - Como inserir imagem no README     
 
-## 🫱🏻‍🫲🏽 Colaboradores
+## 🤝 Colaboradores
 
 * Professor  
 1. [Leonardo](https://github.com/leonardossrocha)
