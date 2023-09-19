@@ -76,11 +76,8 @@ Você pode personalizar o calendário ajustando o arquivo `table.css` para alter
 
 ## 🔗 Fontes consultadas
 1.[Chat gpt](https://chat.openai.com/) - Como fazer um bom README
-
 2.[GitHub Docs](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Sintaxe básica de gravação e formatação no GitHub
-
 3.[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github  
-
 4.[Dio.me](https://www.dio.me/articles/personalize-o-readme-no-github) - Como inserir imagem no README     
 
 ## 🫱🏻‍🫲🏽 Colaboradores
