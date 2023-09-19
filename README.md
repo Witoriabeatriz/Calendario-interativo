@@ -7,6 +7,8 @@
 * [Sobre o projeto](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-sobre-o-projeto)  
 
 * [Recursos](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-recursos)
+
+* [Composição do projeto](https://github.com/Witoriabeatriz/Calendario-interativo/blob/main/README.md#%EF%B8%8F-composi%C3%A7%C3%A3o-do-projeto)
  
 * [Tecnologias Utilizadas](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#tecologias-utilizadas)  
 
@@ -71,8 +73,12 @@ Tabela de cores:
 Você pode personalizar o calendário ajustando o arquivo `table.css` para alterar o estilo visual e o arquivo `table.js` para modificar o comportamento e a lógica do calendário.
 
 ## 🔗 Fontes consultadas
-* Chat gpt - Como fazer um bom README  
-  
+1. Chat gpt - Como fazer um bom README 
+2. [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github  
+3. [Dio.me](https://www.dio.me/articles/personalize-o-readme-no-github) - Como inserir imagem no README     
+
+## 🫱🏻‍🫲🏽 Colaboradores
+
 * Professor  
 1. [Leonardo](https://github.com/leonardossrocha)
 2. [Leonardo.Rocha](https://github.com/leonardoRochaMarista)  
@@ -80,12 +86,6 @@ Você pode personalizar o calendário ajustando o arquivo `table.css` para alter
 * Amigos/colegas  
 1. [Juan](https://github.com/Juanbyluna)
 2. [jasminy](https://github.com/jamybr)
-  
-* Google
-1. [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github  
-2. [Dio.me](https://www.dio.me/articles/personalize-o-readme-no-github) - Como inserir imagem no README     
-
-
 
 ## ✒ Autor
 Este projeto foi criado por [Witória Beatriz Dos Santos](https://github.com/Witoriabeatriz)
