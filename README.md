@@ -37,6 +37,13 @@ Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado
 - Entrada para selecionar o dia do mês;
 - Botão para aplicar a cor selecionada ao dia escolhido.
 
+## 🛠️ Composição do projeto 
+O projeto conta com 3  arquivos fundamentais 
+
+* index.html
+* table.css
+* table.js
+
 ## 🤖 Tecologias utilizadas
 - HTML5;
 - CSS;
