@@ -1,3 +1,6 @@
+# 📆 Calendário Interativo 
+Este é um simples projeto de calendário web que permite ao usuário escolher uma cor e um dia do mês para destacar no calendário.
+
 📈 ÍNDICE
 
 * [Calendário interativo](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#%EF%B8%8F-capa-do-projeto)
@@ -23,8 +26,7 @@
 * [Fontes consultadas](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-fontes-consultadas)
  
 * [Autor](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-autor)  
-# 📆 Calendário Interativo 
-Este é um simples projeto de calendário web que permite ao usuário escolher uma cor e um dia do mês para destacar no calendário.
+
 
 ## 🖥️ Capa do projeto
 <img src="imgs/Funcionando.gif">
