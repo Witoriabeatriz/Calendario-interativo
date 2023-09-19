@@ -48,7 +48,7 @@ O projeto conta com 3  arquivos fundamentais
 * table.css
 * table.js
 
-## 🤖 Tecologias utilizadas
+## 🤖 Tecnologias utilizadas
 - HTML5;
 - CSS;
 - JavaScript.
