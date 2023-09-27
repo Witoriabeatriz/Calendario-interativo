@@ -24,7 +24,9 @@ Este é um simples projeto de calendário web que permite ao usuário escolher u
 * [Personalização](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-personaliza%C3%A7%C3%A3o)
  
 * [Fontes consultadas](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-fontes-consultadas)
- 
+
+* [Colaboradores](https://github.com/Witoriabeatriz/Calendario-interativo#-colaboradores)
+  
 * [Autor](https://github.com/Witoriabeatriz/Calendario-interativo/tree/main#-autor)  
 
 
